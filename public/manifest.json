@@ -1,0 +1,16 @@
+{
+  "name": "Global Music Pulse",
+  "short_name": "MusicPulse",
+  "description": "Analisis tren musik global menggunakan Big Data.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#34d399",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3254/3254215.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
