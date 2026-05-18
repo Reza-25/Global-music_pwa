@@ -15,7 +15,7 @@
     "@ducanh2912/next-pwa": "^10.2.9",
     "@supabase/supabase-js": "^2.105.4",
     "chart.js": "^4.5.1",
-    "next": "15.3.2",
+    "next": "15.3.8",
     "react": "19.2.4",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "19.2.4"
